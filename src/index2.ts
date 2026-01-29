@@ -6,7 +6,7 @@ import archiver from 'archiver';
 
 // Load .env file if exists (optional - VS Code MCP can pass via env)
 try {
-  dotenv.config({ path: __dirname + '/../.env' });
+  dotenv.config({ path: __dirname + '/../wolf.env' });
 } catch (e) {
   // .env file is optional, env vars can come from parent process
 }

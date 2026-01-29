@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qpd-v/mcp-communicator-telegram.git"
+    "url": "https://github.com/andrea-tomassi/mcp-communicator-telegram.git"
   },
   "bugs": {
-    "url": "https://github.com/qpd-v/mcp-communicator-telegram/issues"
+    "url": "https://github.com/andrea-tomassi/mcp-communicator-telegram/issues"
   },
-  "homepage": "https://github.com/qpd-v/mcp-communicator-telegram#readme",
+  "homepage": "https://github.com/andrea-tomassi/mcp-communicator-telegram#readme",
   "scripts": {
     "build": "tsc",
     "start": "node build/index.js",
@@ -41,7 +41,7 @@
     "ai",
     "claude"
   ],
-  "author": "qpd-v",
+  "author": "andrea-tomassi",
   "license": "ISC",
   "dependencies": {
     "archiver": "^7.0.1",
